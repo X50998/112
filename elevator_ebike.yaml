@@ -1,0 +1,7 @@
+path: C:/Users/31667/PycharmProjects/pythonProject4/dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: 电动车
